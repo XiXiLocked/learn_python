@@ -1,0 +1,65 @@
+{
+    "kind": "books#volume",
+    "id": "s1gVAAAAYAAJ",
+    "etag": "yMBMZ85ENrc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ s1gVAAAAYAAJ",
+    "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [ "Jane Austen" ],
+        "publisher": "C. Scribner's Sons",
+        "publishedDate": "1918",
+        "description": "Austen's most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men. At a party near the Bennets' home in the English countryside, Elizabeth meets the wealthy, proud Fitzwilliam Darcy. Elizabeth initially finds Darcy haughty and intolerable, but circumstances continue to unite the pair. Mr. Darcy finds himself captivated by Elizabeth's wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen's wry wit.",
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 401,
+        "printedPageCount": 448,
+        "dimensions": { "height": "18.00 cm" },
+        "printType": "BOOK",
+        "averageRating": 4.0,
+        "ratingsCount": 433,
+        "contentVersion": "1.1.5.0.full.3",
+        "imageLinks": {
+            "smallThumbnail": "http://bks8.books.google.com/books?id= s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk= AFLRE73F8btNqKpVjGX6q7V3XS77QA2PftQUxcEbU3T3njKNxezDql_KgVko fGxCPD3zG1yq39u0XI8s4wjrqFahrWQ-5Epbwfzfkoahl12bMQih5szba Ow&source=gbs_api",
+            "thumbnail": "http://bks8.books.google.com/books?id=s1 gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1& edge=curl&imgtk=AFLRE70tVS8zpcFltWh_7K_5Nh8BYugm2RgBS Lg4vr9tKRaZAYoAs64RK9aqfLRECSJq7ATs_j38JRI3D4P48-2g_k4- EY8CRNVReZguZFMk1zaXlzhMNCw&source=gbs_api",
+            "small": "http://bks8.books.google.com/books?id=s1gVAAAAYAAJ &printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71qcidjIs 37x0jN2dGPstn6u2pgeXGWZpS1ajrGgkGCbed356114HPD5DNxcR5XfJtvU5DKy 5odwGgkrwYl9gC9fo3y-GM74ZIR2Dc-BqxoDuUANHg&source=gbs_api",
+            "medium": "http://bks8.books.google.com/books?id=s1gVAAAAYA AJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73hIRCi GRbfTb0uNIIXKW4vjrqAnDBSks_ne7_wHx3STluyMa0fsPVptBRW4yNxNKOJWjA4 Od5GIbEKytZAR3Nmw_XTmaqjA9CazeaRofqFskVjZP0&source=gbs_api",
+            "large": "http://bks8.books.google.com/books?id=s1gVAAAAYAAJ &printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73mlnr Dv-rFsL-n2AEKcOODZmtHDHH0QN56oG5wZsy9XdUgXNnJ_SmZ0sHGOxUv4sWK6 GnMRjQm2eEwnxIV4dcF9eBhghMcsx-S2DdZoqgopJHk6Ts&source=gbs_api",
+            "extraLarge": "http://bks8.books.google.com/books?id=s1gVAAAA YAAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73KIX HChsznTbrXnXDGVs3SHtYpl8tGncDPX_7GH0gd7sq7SA03aoBR0mDC4-euzb4UCI DiDNLYZUBJwMJxVX_cKG5OAraACPLa2QLDcfVkc1pcbC0&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s1gVAAAAYAAJ&hl=&so urce=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s1gVAAAAYAAJ&hl=&sour ce=gbs_api",
+        "canonicalVolumeLink": "http://books.google.com/books/about/Pride_ and_Prejudice.html?hl=&id=s1gVAAAAYAAJ"
+    },
+    "layerInfo": {
+        "layers": [
+            {
+                "layerId": "geo",
+                "volumeAnnotationsVersion": "6"
+            }
+        ]
+    },
+    "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "http://books.google.com/books?id=s1gVAAAAYAAJ&hl=&buy=&s ource=gbs_api"
+    },
+    "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com/books/download/Pride_and_ Prejudice.epub?id=s1gVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com/books/download/Pride_and_ Prejudice.pdf?id=s1gVAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3dQw5JDWdbVgk2V RHyDjVMT4oIaA&source=gbs_api"
+        },
+        "webReaderLink": "http://books.google.com/books/reader?id=s1gVAAAAYA AJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}
